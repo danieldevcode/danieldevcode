@@ -10,6 +10,15 @@
   </a>
 </div>
 
+<!-- STATS SECTION -->
+<br />
+<div align="center">
+  <h2>🧪 GitHub Stats</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=danieldevcode&theme=transparent&mode=weekly" 
+    alt="GitHub Streak" 
+  />
+</div>  
+
 <!-- SKILLS SECTION -->
 <br />
 <div align="center">
@@ -71,17 +80,3 @@
     width="32"
   />
 </div>
-
-<!-- STATS SECTION -->
-<br />
-<div align="center">
-  <h2>🧪 GitHub Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=danieldevcode&theme=transparent&mode=weekly" 
-    alt="GitHub Streak" 
-  />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevcode&theme=transparent&layout=compact" 
-    alt="Top languages" 
-  />
-</div>  
