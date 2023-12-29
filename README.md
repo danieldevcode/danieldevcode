@@ -6,7 +6,7 @@
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://danielcortes.tech">
-    <img alt="Website Badge" src="https://img.shields.io/badge/💻 Website-9381ff?style=for-the-badge" />
+    <img alt="Website Badge" src="https://img.shields.io/badge/💻 danielcortes.tech-9381ff?style=for-the-badge" />
   </a>
 </div>
 
