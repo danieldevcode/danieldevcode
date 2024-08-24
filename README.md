@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/danielcortesdev">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://danielcortes.tech">
+  <a href="https://danielcortes.me">
     <img alt="Website Badge" src="https://img.shields.io/badge/💻 danielcortes.tech-9381ff?style=for-the-badge" />
   </a>
 </div>
